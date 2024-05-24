@@ -1,4 +1,4 @@
-# workshop_PDN001
+# workshop_PDN001 : Fundamentals Of Python And Its Application
 
 Python: https://www.python.org/downloads/
 
